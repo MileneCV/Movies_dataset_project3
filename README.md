@@ -1,2 +1,2 @@
-# github_desktop_practice
+# IMDB's movie data set
  
